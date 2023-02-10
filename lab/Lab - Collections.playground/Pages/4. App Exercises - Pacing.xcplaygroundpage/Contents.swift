@@ -15,7 +15,7 @@
 
 
 /*:
- Imagine the user in question gets faster over time and decides to update his/her pacing on activities. Update the values of "Medium" and "Fast" to 10 and 12, respectively. Print the dictionary. (.25 points)
+ Imagine the user in question gets faster over time and decides to update his/her pacing on activities. Update the values of "Medium" and "Hard" to 10 and 12, respectively. Print the dictionary. (.25 points)
  */
 
 
